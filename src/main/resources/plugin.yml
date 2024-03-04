@@ -1,0 +1,8 @@
+name: DisguiseSystem
+version: '${project.version}'
+main: ez.reccpe.disguisesystem.DisguiseSystem
+api-version: '1.16'
+author: Reccpe
+commands:
+  disguise:
+    description: Takma isimini değiştirmeye yarar
